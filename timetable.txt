@@ -1,0 +1,143 @@
+Train ID: BPM1, Arrival: 05:00, Departure: 05:30, Station: BHAKTI PARK METRO, Direction: UP, Top Speed: 35
+Train ID: BPM1, Arrival: 07:14, Departure: 07:44, Station: WADALA TT, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 07:33, Departure: 08:03, Station: ANIKNAGARBUSDEPOT, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 09:31, Departure: 10:01, Station: SIDDHARTHCOLONY, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 11:33, Departure: 12:03, Station: GARODIA NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 10:32, Departure: 11:02, Station: PANT NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 10:01, Departure: 10:31, Station: LAXMINAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 10:08, Departure: 10:38, Station: SHREYAS CINEMA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 10:14, Departure: 10:44, Station: GODREJ COMPANY, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 10:40, Departure: 11:10, Station: VIKHROLI METRO, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 11:46, Departure: 12:16, Station: SURYA NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 11:44, Departure: 12:44, Station: GANDHINAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 12:44, Departure: 13:14, Station: NAVAL HOUSING, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 13:49, Departure: 14:19, Station: BHANDUP MAHAPALIKA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 13:50, Departure: 14:20, Station: BHANDUP METRO, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 15:38, Departure: 16:08, Station: SHANGRILLA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 15:29, Departure: 15:59, Station: SONAPUR, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 16:24, Departure: 16:54, Station: MULUND FIRE STATION, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 16:39, Departure: 17:09, Station: MULUND NAKA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 16:18, Departure: 16:48, Station: TEEN HAATH NAKA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 17:09, Departure: 17:39, Station: RTO THANE, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 17:19, Departure: 17:49, Station: MAHAPALIKAMARG, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 17:52, Departure: 18:52, Station: CADBUARY JUNCTION, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 20:06, Departure: 20:36, Station: MAJIWADA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 19:21, Departure: 19:51, Station: KAPURBAWDI, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 19:45, Departure: 20:15, Station: MANPADA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 21:11, Departure: 21:41, Station: TIKUJI NI WADI, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 21:38, Departure: 22:08, Station: DONGARI PADA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 21:48, Departure: 22:18, Station: VIJAYGARDEN, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 23:01, Departure: 23:31, Station: KASARVADVALI, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 23:45, Departure: 24:15, Station: GOWNIWADA, Direction: UP, Top Speed: 30
+Train ID: BPM1, Arrival: 21:15, Departure: 21:45, Station: GAIMUKH, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 05:10, Departure: 05:40, Station: BHAKTI PARK METRO, Direction: UP, Top Speed: 35
+Train ID: BPM2, Arrival: 07:24, Departure: 07:54, Station: WADALA TT, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 07:43, Departure: 08:13, Station: ANIKNAGARBUSDEPOT, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 09:41, Departure: 10:11, Station: SIDDHARTHCOLONY, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 11:43, Departure: 12:13, Station: GARODIA NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 10:42, Departure: 11:12, Station: PANT NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 10:11, Departure: 10:41, Station: LAXMINAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 10:18, Departure: 10:48, Station: SHREYAS CINEMA, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 10:24, Departure: 10:54, Station: GODREJ COMPANY, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 10:50, Departure: 11:20, Station: VIKHROLI METRO, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 11:56, Departure: 12:26, Station: SURYA NAGAR, Direction: UP, Top Speed: 30
+Train ID: BPM2, Arrival: 11:54, Departure: 12:54, Station: GANDHINAGAR, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 05:00, Departure: 05:30, Station: GANDHINAGAR, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 05:30, Departure: 06:00, Station: NAVAL HOUSING, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 06:35, Departure: 07:05, Station: BHANDUP MAHAPALIKA, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 06:36, Departure: 07:06, Station: BHANDUP METRO, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 08:24, Departure: 08:54, Station: SHANGRILLA, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 08:15, Departure: 08:45, Station: SONAPUR, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 09:10, Departure: 09:40, Station: MULUND FIRE STATION, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 09:25, Departure: 09:55, Station: MULUND NAKA, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 09:04, Departure: 09:34, Station: TEEN HAATH NAKA, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 09:55, Departure: 10:25, Station: RTO THANE, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 10:05, Departure: 10:35, Station: MAHAPALIKAMARG, Direction: UP, Top Speed: 30
+Train ID: GAD1, Arrival: 10:38, Departure: 11:38, Station: CADBUARY JUNCTION, Direction: UP, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 05:10, Departure: 05:40, Station: GANDHINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 06:12, Departure: 06:42, Station: SURYA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 07:18, Departure: 07:48, Station: VIKHROLI METRO, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 07:52, Departure: 08:22, Station: GODREJ COMPANY, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 08:46, Departure: 09:16, Station: SHREYAS CINEMA, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 09:39, Departure: 10:09, Station: LAXMINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 11:10, Departure: 11:40, Station: PANT NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 13:11, Departure: 13:41, Station: GARODIA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 15:13, Departure: 15:43, Station: SIDDHARTHCOLONY, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 17:11, Departure: 17:41, Station: ANIKNAGARBUSDEPOT, Direction: DOWN, Top Speed: 30
+Train ID: GAD1_DOWN, Arrival: 17:52, Departure: 18:22, Station: WADALA TT, Direction: DOWN, Top Speed: 35
+Train ID: GAD1_DOWN, Arrival: 20:06, Departure: 35:06, Station: BHAKTI PARK METRO, Direction: DOWN, Top Speed: 35
+Train ID: CAD1, Arrival: 05:00, Departure: 05:30, Station: CADBUARY JUNCTION, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 06:44, Departure: 07:14, Station: MAJIWADA, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 05:59, Departure: 06:29, Station: KAPURBAWDI, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 06:23, Departure: 06:53, Station: MANPADA, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 07:49, Departure: 08:19, Station: TIKUJI NI WADI, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 08:16, Departure: 08:46, Station: DONGARI PADA, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 08:26, Departure: 08:56, Station: VIJAYGARDEN, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 09:39, Departure: 10:09, Station: KASARVADVALI, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 10:23, Departure: 10:53, Station: GOWNIWADA, Direction: UP, Top Speed: 30
+Train ID: CAD1, Arrival: 07:53, Departure: 22:53, Station: GAIMUKH, Direction: UP, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 05:10, Departure: 05:40, Station: CADBUARY JUNCTION, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 05:43, Departure: 06:13, Station: MAHAPALIKAMARG, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 06:33, Departure: 07:03, Station: RTO THANE, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 07:24, Departure: 07:54, Station: TEEN HAATH NAKA, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 08:45, Departure: 09:15, Station: MULUND NAKA, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 09:30, Departure: 10:00, Station: MULUND FIRE STATION, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 10:25, Departure: 10:55, Station: SONAPUR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 11:34, Departure: 12:04, Station: SHANGRILLA, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 13:22, Departure: 13:52, Station: BHANDUP METRO, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 14:21, Departure: 14:51, Station: BHANDUP MAHAPALIKA, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 15:26, Departure: 15:56, Station: NAVAL HOUSING, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 15:56, Departure: 16:26, Station: GANDHINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 16:58, Departure: 17:28, Station: SURYA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 18:04, Departure: 18:34, Station: VIKHROLI METRO, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 18:38, Departure: 19:08, Station: GODREJ COMPANY, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 19:32, Departure: 20:02, Station: SHREYAS CINEMA, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 20:25, Departure: 20:55, Station: LAXMINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 21:56, Departure: 22:26, Station: PANT NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 23:57, Departure: 24:27, Station: GARODIA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 25:59, Departure: 26:29, Station: SIDDHARTHCOLONY, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 27:57, Departure: 28:27, Station: ANIKNAGARBUSDEPOT, Direction: DOWN, Top Speed: 30
+Train ID: CAD2_DOWN, Arrival: 28:38, Departure: 29:08, Station: WADALA TT, Direction: DOWN, Top Speed: 35
+Train ID: CAD2_DOWN, Arrival: 30:52, Departure: 45:52, Station: BHAKTI PARK METRO, Direction: DOWN, Top Speed: 35
+Train ID: GAI_1, Arrival: 05:00, Departure: 05:30, Station: GAIMUKH, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 08:04, Departure: 08:34, Station: GOWNIWADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 08:48, Departure: 09:18, Station: KASARVADVALI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 10:01, Departure: 10:31, Station: VIJAYGARDEN, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 10:51, Departure: 11:21, Station: DONGARI PADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 11:24, Departure: 11:54, Station: TIKUJI NI WADI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 12:50, Departure: 13:20, Station: MANPADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 13:26, Departure: 13:56, Station: KAPURBAWDI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 15:11, Departure: 15:41, Station: MAJIWADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_1, Arrival: 16:55, Departure: 17:55, Station: CADBUARY JUNCTION, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 05:10, Departure: 05:40, Station: GAIMUKH, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 08:14, Departure: 08:44, Station: GOWNIWADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 08:58, Departure: 09:28, Station: KASARVADVALI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 10:11, Departure: 10:41, Station: VIJAYGARDEN, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 11:01, Departure: 11:31, Station: DONGARI PADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 11:34, Departure: 12:04, Station: TIKUJI NI WADI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 13:00, Departure: 13:30, Station: MANPADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 13:36, Departure: 14:06, Station: KAPURBAWDI, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 15:21, Departure: 15:51, Station: MAJIWADA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 17:05, Departure: 17:35, Station: CADBUARY JUNCTION, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 17:38, Departure: 18:08, Station: MAHAPALIKAMARG, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 18:28, Departure: 18:58, Station: RTO THANE, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 19:19, Departure: 19:49, Station: TEEN HAATH NAKA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 20:40, Departure: 21:10, Station: MULUND NAKA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 21:25, Departure: 21:55, Station: MULUND FIRE STATION, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 22:20, Departure: 22:50, Station: SONAPUR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 23:29, Departure: 23:59, Station: SHANGRILLA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 25:17, Departure: 25:47, Station: BHANDUP METRO, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 26:16, Departure: 26:46, Station: BHANDUP MAHAPALIKA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 27:21, Departure: 27:51, Station: NAVAL HOUSING, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 27:51, Departure: 28:21, Station: GANDHINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 28:53, Departure: 29:23, Station: SURYA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 29:59, Departure: 30:29, Station: VIKHROLI METRO, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 30:33, Departure: 31:03, Station: GODREJ COMPANY, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 31:27, Departure: 31:57, Station: SHREYAS CINEMA, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 32:20, Departure: 32:50, Station: LAXMINAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 33:51, Departure: 34:21, Station: PANT NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 35:52, Departure: 36:22, Station: GARODIA NAGAR, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 37:54, Departure: 38:24, Station: SIDDHARTHCOLONY, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 39:52, Departure: 40:22, Station: ANIKNAGARBUSDEPOT, Direction: DOWN, Top Speed: 30
+Train ID: GAI_2, Arrival: 40:33, Departure: 41:03, Station: WADALA TT, Direction: DOWN, Top Speed: 35
+Train ID: GAI_2, Arrival: 42:47, Departure: 57:47, Station: BHAKTI PARK METRO, Direction: DOWN, Top Speed: 35

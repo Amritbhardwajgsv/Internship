@@ -1,0 +1,178 @@
+Train,Mode,Station,Arrival,Departure
+Train 1,fixed,GAIMUKH,-,08:00
+Train 1,fixed,GOWNIWADA,08:02,08:03
+Train 1,fixed,KASARVADAVLI,08:03,08:03
+Train 1,fixed,VIJAYGARDEN,08:04,08:05
+Train 1,fixed,D0ONGARI PADA,08:05,08:05
+Train 1,fixed,TIKU JI NI WADI,08:05,08:06
+Train 1,fixed,MANPADA,08:07,08:07
+Train 1,fixed,KAPURBAWDI,08:07,08:08
+Train 1,fixed,MAJIWADA,08:09,08:10
+Train 1,fixed,CADBUARY JN,08:11,08:14
+Train 2,fixed,CADBUARY JN,-,08:00
+Train 2,fixed,MAJIWADA,08:01,08:01
+Train 2,fixed,KAPURBAWDI,08:03,08:03
+Train 2,fixed,MANPADA,08:03,08:04
+Train 2,fixed,TIKU JI NI WADI,08:05,08:05
+Train 2,fixed,D0ONGARI PADA,08:05,08:06
+Train 2,fixed,VIJAYGARDEN,08:06,08:06
+Train 2,fixed,KASARVADAVLI,08:07,08:08
+Train 2,fixed,GOWNIWADA,08:08,08:08
+Train 2,fixed,GAIMUKH,08:11,08:14
+Train 3,fixed,KAPURBAWDI,-,08:00
+Train 3,fixed,MANPADA,08:00,08:00
+Train 3,fixed,TIKU JI NI WADI,08:01,08:02
+Train 3,fixed,D0ONGARI PADA,08:02,08:02
+Train 3,fixed,VIJAYGARDEN,08:02,08:03
+Train 3,fixed,KASARVADAVLI,08:04,08:04
+Train 3,fixed,GOWNIWADA,08:04,08:05
+Train 3,fixed,GAIMUKH,08:07,08:10
+Train 4,fixed,KAPURBAWDI,-,08:00
+Train 4,fixed,MAJIWADA,08:01,08:01
+Train 4,fixed,CADBUARY JN,08:03,08:06
+Train 5,fixed,GAIMUKH,-,08:00
+Train 5,fixed,GOWNIWADA,08:02,08:03
+Train 5,fixed,KASARVADAVLI,08:03,08:03
+Train 5,fixed,VIJAYGARDEN,08:04,08:05
+Train 5,fixed,D0ONGARI PADA,08:05,08:05
+Train 5,fixed,TIKU JI NI WADI,08:05,08:06
+Train 5,fixed,MANPADA,08:07,08:07
+Train 5,fixed,KAPURBAWDI,08:07,08:08
+Train 5,fixed,MAJIWADA,08:09,08:10
+Train 5,fixed,CADBUARY JN,08:11,08:14
+Train 6,fixed,CADBUARY JN,-,08:00
+Train 6,fixed,MAJIWADA,08:01,08:01
+Train 6,fixed,KAPURBAWDI,08:03,08:03
+Train 6,fixed,MANPADA,08:03,08:04
+Train 6,fixed,TIKU JI NI WADI,08:05,08:05
+Train 6,fixed,D0ONGARI PADA,08:05,08:06
+Train 6,fixed,VIJAYGARDEN,08:06,08:06
+Train 6,fixed,KASARVADAVLI,08:07,08:08
+Train 6,fixed,GOWNIWADA,08:08,08:08
+Train 6,fixed,GAIMUKH,08:11,08:14
+Train 7,fixed,KAPURBAWDI,-,08:00
+Train 7,fixed,MANPADA,08:00,08:00
+Train 7,fixed,TIKU JI NI WADI,08:01,08:02
+Train 7,fixed,D0ONGARI PADA,08:02,08:02
+Train 7,fixed,VIJAYGARDEN,08:02,08:03
+Train 7,fixed,KASARVADAVLI,08:04,08:04
+Train 7,fixed,GOWNIWADA,08:04,08:05
+Train 7,fixed,GAIMUKH,08:07,08:10
+Train 1,ml_dwell,GAIMUKH,-,08:00
+Train 1,ml_dwell,GOWNIWADA,08:02,08:03
+Train 1,ml_dwell,KASARVADAVLI,08:03,08:04
+Train 1,ml_dwell,VIJAYGARDEN,08:04,08:05
+Train 1,ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 1,ml_dwell,TIKU JI NI WADI,08:06,08:07
+Train 1,ml_dwell,MANPADA,08:08,08:08
+Train 1,ml_dwell,KAPURBAWDI,08:08,08:09
+Train 1,ml_dwell,MAJIWADA,08:10,08:11
+Train 1,ml_dwell,CADBUARY JN,08:12,08:15
+Train 2,ml_dwell,CADBUARY JN,-,08:00
+Train 2,ml_dwell,MAJIWADA,08:01,08:01
+Train 2,ml_dwell,KAPURBAWDI,08:03,08:03
+Train 2,ml_dwell,MANPADA,08:03,08:04
+Train 2,ml_dwell,TIKU JI NI WADI,08:05,08:06
+Train 2,ml_dwell,D0ONGARI PADA,08:06,08:06
+Train 2,ml_dwell,VIJAYGARDEN,08:07,08:07
+Train 2,ml_dwell,KASARVADAVLI,08:08,08:09
+Train 2,ml_dwell,GOWNIWADA,08:09,08:10
+Train 2,ml_dwell,GAIMUKH,08:12,08:15
+Train 3,ml_dwell,KAPURBAWDI,-,08:00
+Train 3,ml_dwell,MANPADA,08:00,08:00
+Train 3,ml_dwell,TIKU JI NI WADI,08:01,08:02
+Train 3,ml_dwell,D0ONGARI PADA,08:02,08:03
+Train 3,ml_dwell,VIJAYGARDEN,08:03,08:04
+Train 3,ml_dwell,KASARVADAVLI,08:04,08:05
+Train 3,ml_dwell,GOWNIWADA,08:05,08:06
+Train 3,ml_dwell,GAIMUKH,08:08,08:11
+Train 4,ml_dwell,KAPURBAWDI,-,08:00
+Train 4,ml_dwell,MAJIWADA,08:01,08:01
+Train 4,ml_dwell,CADBUARY JN,08:03,08:06
+Train 5,ml_dwell,GAIMUKH,-,08:00
+Train 5,ml_dwell,GOWNIWADA,08:02,08:03
+Train 5,ml_dwell,KASARVADAVLI,08:03,08:04
+Train 5,ml_dwell,VIJAYGARDEN,08:04,08:05
+Train 5,ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 5,ml_dwell,TIKU JI NI WADI,08:06,08:07
+Train 5,ml_dwell,MANPADA,08:08,08:08
+Train 5,ml_dwell,KAPURBAWDI,08:08,08:09
+Train 5,ml_dwell,MAJIWADA,08:10,08:11
+Train 5,ml_dwell,CADBUARY JN,08:12,08:15
+Train 6,ml_dwell,CADBUARY JN,-,08:00
+Train 6,ml_dwell,MAJIWADA,08:01,08:01
+Train 6,ml_dwell,KAPURBAWDI,08:03,08:03
+Train 6,ml_dwell,MANPADA,08:03,08:04
+Train 6,ml_dwell,TIKU JI NI WADI,08:05,08:06
+Train 6,ml_dwell,D0ONGARI PADA,08:06,08:06
+Train 6,ml_dwell,VIJAYGARDEN,08:07,08:07
+Train 6,ml_dwell,KASARVADAVLI,08:08,08:09
+Train 6,ml_dwell,GOWNIWADA,08:09,08:10
+Train 6,ml_dwell,GAIMUKH,08:12,08:15
+Train 7,ml_dwell,KAPURBAWDI,-,08:00
+Train 7,ml_dwell,MANPADA,08:00,08:00
+Train 7,ml_dwell,TIKU JI NI WADI,08:01,08:02
+Train 7,ml_dwell,D0ONGARI PADA,08:02,08:03
+Train 7,ml_dwell,VIJAYGARDEN,08:03,08:04
+Train 7,ml_dwell,KASARVADAVLI,08:04,08:05
+Train 7,ml_dwell,GOWNIWADA,08:05,08:06
+Train 7,ml_dwell,GAIMUKH,08:08,08:11
+Train 1,optimized_ml_dwell,GAIMUKH,-,08:00
+Train 1,optimized_ml_dwell,GOWNIWADA,08:02,08:02
+Train 1,optimized_ml_dwell,KASARVADAVLI,08:03,08:03
+Train 1,optimized_ml_dwell,VIJAYGARDEN,08:04,08:04
+Train 1,optimized_ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 1,optimized_ml_dwell,TIKU JI NI WADI,08:06,08:06
+Train 1,optimized_ml_dwell,MANPADA,08:07,08:08
+Train 1,optimized_ml_dwell,KAPURBAWDI,08:08,08:09
+Train 1,optimized_ml_dwell,MAJIWADA,08:10,08:10
+Train 1,optimized_ml_dwell,CADBUARY JN,08:11,08:14
+Train 2,optimized_ml_dwell,CADBUARY JN,-,08:00
+Train 2,optimized_ml_dwell,MAJIWADA,08:00,08:01
+Train 2,optimized_ml_dwell,KAPURBAWDI,08:02,08:03
+Train 2,optimized_ml_dwell,MANPADA,08:03,08:04
+Train 2,optimized_ml_dwell,TIKU JI NI WADI,08:04,08:05
+Train 2,optimized_ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 2,optimized_ml_dwell,VIJAYGARDEN,08:06,08:07
+Train 2,optimized_ml_dwell,KASARVADAVLI,08:07,08:08
+Train 2,optimized_ml_dwell,GOWNIWADA,08:08,08:09
+Train 2,optimized_ml_dwell,GAIMUKH,08:12,08:15
+Train 3,optimized_ml_dwell,KAPURBAWDI,-,08:00
+Train 3,optimized_ml_dwell,MANPADA,08:00,08:00
+Train 3,optimized_ml_dwell,TIKU JI NI WADI,08:01,08:02
+Train 3,optimized_ml_dwell,D0ONGARI PADA,08:02,08:03
+Train 3,optimized_ml_dwell,VIJAYGARDEN,08:03,08:04
+Train 3,optimized_ml_dwell,KASARVADAVLI,08:04,08:05
+Train 3,optimized_ml_dwell,GOWNIWADA,08:05,08:06
+Train 3,optimized_ml_dwell,GAIMUKH,08:08,08:12
+Train 4,optimized_ml_dwell,KAPURBAWDI,-,08:00
+Train 4,optimized_ml_dwell,MAJIWADA,08:00,08:01
+Train 4,optimized_ml_dwell,CADBUARY JN,08:02,08:05
+Train 5,optimized_ml_dwell,GAIMUKH,-,08:00
+Train 5,optimized_ml_dwell,GOWNIWADA,08:02,08:02
+Train 5,optimized_ml_dwell,KASARVADAVLI,08:03,08:03
+Train 5,optimized_ml_dwell,VIJAYGARDEN,08:04,08:04
+Train 5,optimized_ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 5,optimized_ml_dwell,TIKU JI NI WADI,08:06,08:06
+Train 5,optimized_ml_dwell,MANPADA,08:07,08:08
+Train 5,optimized_ml_dwell,KAPURBAWDI,08:08,08:09
+Train 5,optimized_ml_dwell,MAJIWADA,08:10,08:10
+Train 5,optimized_ml_dwell,CADBUARY JN,08:11,08:14
+Train 6,optimized_ml_dwell,CADBUARY JN,-,08:00
+Train 6,optimized_ml_dwell,MAJIWADA,08:00,08:01
+Train 6,optimized_ml_dwell,KAPURBAWDI,08:02,08:03
+Train 6,optimized_ml_dwell,MANPADA,08:03,08:04
+Train 6,optimized_ml_dwell,TIKU JI NI WADI,08:04,08:05
+Train 6,optimized_ml_dwell,D0ONGARI PADA,08:05,08:06
+Train 6,optimized_ml_dwell,VIJAYGARDEN,08:06,08:07
+Train 6,optimized_ml_dwell,KASARVADAVLI,08:07,08:08
+Train 6,optimized_ml_dwell,GOWNIWADA,08:08,08:09
+Train 6,optimized_ml_dwell,GAIMUKH,08:12,08:15
+Train 7,optimized_ml_dwell,KAPURBAWDI,-,08:00
+Train 7,optimized_ml_dwell,MANPADA,08:00,08:00
+Train 7,optimized_ml_dwell,TIKU JI NI WADI,08:01,08:02
+Train 7,optimized_ml_dwell,D0ONGARI PADA,08:02,08:03
+Train 7,optimized_ml_dwell,VIJAYGARDEN,08:03,08:04
+Train 7,optimized_ml_dwell,KASARVADAVLI,08:04,08:05
+Train 7,optimized_ml_dwell,GOWNIWADA,08:05,08:06
+Train 7,optimized_ml_dwell,GAIMUKH,08:08,08:12
