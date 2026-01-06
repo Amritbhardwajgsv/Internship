@@ -18,9 +18,8 @@ stations = [
     ("CADBUARY JUNCTION", 824.707, 180, 45)
 ]
 
-# ----------- C++ Run Time Logic Recreated -----------
 def calculate_run_time(distance, civil_speed, optimized=False):
-    # Use optimized speeds if requested
+
     if optimized:
         vmax_kmph = 38.0 if distance > 800 else 33.0
     else:
